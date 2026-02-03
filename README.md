@@ -1,36 +1,38 @@
-# Hi there 👋 I'm Nicole
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9A9E,FECFEF,9999ff&height=250&section=header&text=Nicole%20Muñoz%20Mahecha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20Student&descAlignY=60&descAlign=80" width="100%"/>
+</div>
 
-### 👩‍💻 Sobre mí / About Me
+## Hi there 👋 I'm Nicole
 
-**[ES]**
-Soy estudiante de **Ingeniería Informática** apasionada por el desarrollo de software. Mi enfoque principal es la creación de aplicaciones robustas y eficientes.
-Me caracterizo por mantener un código limpio y organizado, con una base sólida en **Estructuras de Datos** y **Patrones de Diseño**. Disfruto resolviendo problemas lógicos complejos y optimizando el flujo de datos.
+I am a **Computer Engineering Student** passionate about **Software Engineering** and **Application Development**. My academic training is strongly focused on understanding the logic behind code, from low-level memory management to high-level architectural decisions.
 
-**[EN]**
-I am a **Computer Engineering student** focused on software development. My main interest lies in building robust and efficient applications.
-I pride myself on writing clean, organized code, supported by strong knowledge of **Data Structures** and **Design Patterns**. I enjoy solving complex logical problems and optimizing data flow.
+I have a strong foundation in **Data Structures**, **Design Patterns**, and **Algorithm Optimization**, allowing me to build efficient and scalable solutions.
 
 ---
 
-### 🛠️ Stack Tecnológico / Tech Stack
+## Hola 👋 Soy Nicole
 
-Lenguajes y herramientas con los que trabajo / Languages and tools I work with:
+Soy estudiante de **Ingeniería Informática** centrada en la **Ingeniería del Software** y el **Desarrollo de Aplicaciones**. Mi formación académica se enfoca en comprender la lógica detrás del código, desde la gestión de memoria a bajo nivel hasta las decisiones arquitectónicas de alto nivel.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/SageMath-0066CC?style=for-the-badge&logo=sagemath&logoColor=white" alt="SageMath" />
-</p>
+Poseo un gran conocimiento en **Estructuras de Datos**, **Patrones de Diseño** y **Optimización de Algoritmos**, lo que me permite construir soluciones eficientes y escalables.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,eclipse,github&theme=light" alt="My Skills" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolemunozmahecha&show_icons=true&theme=radical&hide_border=true" alt="Nicole's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemunozmahecha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolemunozmahecha&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemunozmahecha&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+</div>
