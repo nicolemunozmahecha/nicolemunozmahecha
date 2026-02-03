@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9A9E,FECFEF,9999ff&height=250&section=header&text=Nicole%20Muñoz%20Mahecha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20Student&descAlignY=60&descAlign=80" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9A9E,FECFEF,9999ff&height=250&section=header&text=Nicole%20Muñoz%20Mahecha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=60&descAlign=80" width="100%"/>
 </div>
 
 ## Hi there 👋 I'm Nicole
