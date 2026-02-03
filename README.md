@@ -28,11 +28,4 @@ Poseo un gran conocimiento en **Estructuras de Datos**, **Patrones de Diseño** 
   </p>
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolemunozmahecha&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemunozmahecha&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
