@@ -10,6 +10,23 @@ I have a strong foundation in **Data Structures**, **Design Patterns**, and **Al
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="top_center" width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolemunozmahecha&show_icons=true&theme=radical" alt="Estadísticas" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolemunozmahecha&layout=donut&theme=radical" alt="Lenguajes" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ## Hola 👋 Soy Nicole
 
 Soy estudiante de **Ingeniería Informática** centrada en la **Ingeniería del Software** y el **Desarrollo de Aplicaciones**. Mi formación académica se enfoca en comprender la lógica detrás del código, desde la gestión de memoria a bajo nivel hasta las decisiones arquitectónicas de alto nivel.
@@ -18,7 +35,7 @@ Poseo un gran conocimiento en **Estructuras de Datos**, **Patrones de Diseño** 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack y Herramientas
 
 <div align="center">
   <p align="center">
@@ -27,5 +44,6 @@ Poseo un gran conocimiento en **Estructuras de Datos**, **Patrones de Diseño** 
     </a>
   </p>
 </div>
+
 
 
