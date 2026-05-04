@@ -15,16 +15,15 @@ I have a strong foundation in **Data Structures**, **Design Patterns**, and **Al
 <p align="center">
   <table align="center" border="0">
     <tr>
-      <td align="top_center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolemunozmahecha&show_icons=true&theme=radical" alt="Estadísticas" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=nicolemunozmahecha&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolemunozmahecha&layout=donut&theme=radical" alt="Lenguajes" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemunozmahecha&layout=donut&theme=radical" alt="Lenguajes más usados" />
       </td>
     </tr>
   </table>
 </p>
-
 ---
 
 ## Hola 👋 Soy Nicole
