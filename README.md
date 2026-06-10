@@ -16,6 +16,7 @@ I have a strong foundation in **Data Structures**, **Design Patterns**, and **Al
   <img src="https://github-readme-stats.vercel.app/api?username=nicolemunozmahecha&show_icons=true&theme=radical&v=1" height="150" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemunozmahecha&layout=donut&theme=radical&v=1" height="150" alt="Lenguajes más usados" />
 </div>
+
 ---
 
 ## Hola 👋 Soy Nicole
